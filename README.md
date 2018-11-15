@@ -8,6 +8,18 @@ As a part of the project, I tried using pre-trained CNN models including:
 3. Inception
 4. ResNet
 
+# Machine Learning Techniques
+
+1. Convolutional Neural Networks
+2. Auto encoders
+
+Feature Extraction using Image Processing 
+
+# Open Sources used:
+
+keras, sklearn, pandas, numpy, PyTorch
+OPenCV
+
 These pre-trained models gave results which suffered from overfitting. Further feature extraction and image processing followed by GANs/ encoder may improve the accuracy.
 
 # Dataset used:
